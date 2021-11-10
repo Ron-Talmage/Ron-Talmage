@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ron-Talmage
 - 👀 I’m interested in the BISL CDW production data warehouse
-- 🌱 I’m currently learning Github, Azure database
+- 🌱 I’m currently learning Github, BISL modernization, Azure database
 - 💞️ I’m looking to collaborate on CDW production data warehouse
 - 📫 How to reach me: Ronald.Talmage@va.gov
 
